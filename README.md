@@ -1,3 +1,3 @@
-# Lab Notes
+# Lab
 
-This is where I store all of my lab notes.
+This repository serves as a collection of my labs, projects, scripts, and experiments used for learning, exploration, and hands-on experience.
