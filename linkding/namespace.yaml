@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  creationTimestamp: "2024-05-12T15:43:58Z"
+  labels:
+    kubernetes.io/metadata.name: linkding
+  name: linkding
+  resourceVersion: "165611"
+  uid: 7fd3f7bf-0afe-4d10-ac8b-220e75bd8467
+spec:
+  finalizers:
+  - kubernetes
+status:
+  phase: Active
